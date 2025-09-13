@@ -1,0 +1,11 @@
+import schema.sql into your MySQL database.
+
+Update DBConnection.java with your MySQL username & password.
+
+Compile the Java files:
+
+javac *.java
+
+Run the application:
+
+java QuizApp
